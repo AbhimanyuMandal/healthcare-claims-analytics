@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Healthcare Claims Analytics Banner"/>
+  <img src="assets/banner_1.png" width="100%" alt="Healthcare Claims Analytics Banner"/>
 </p>
 
 <h1 align="center">🏥 Healthcare Claims Analytics</h1>
