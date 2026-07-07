@@ -5,7 +5,7 @@
 <h1 align="center">🏥 Healthcare Claims Analytics</h1>
 
 <h3 align="center">
-End-to-End Healthcare Analytics with R • SQL • Tableau
+End-to-End Healthcare Analytics with R and Tableau
 </h3>
 
 <p align="center">
