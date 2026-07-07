@@ -84,31 +84,11 @@ The project was designed to answer several important business questions:
 
 # 🏗 Analytics Workflow
 
-```
-Raw Healthcare Claims Dataset
-              │
-              ▼
-      Data Cleaning (R)
-              │
-              ▼
-     Feature Engineering
-              │
-              ▼
- Exploratory Data Analysis
-              │
-              ▼
- Statistical Analysis (R)
-              │
-              ▼
- Processed Analytical Dataset
-              │
-              ▼
-     Interactive Tableau
-         Dashboards
-              │
-              ▼
-      Business Insights
-```
+# 🏗️ Analytics Workflow
+
+<p align="center">
+  <img src="assets/workflow.png" alt="Healthcare Claims Analytics Workflow" width="85%">
+</p>
 
 ---
 
